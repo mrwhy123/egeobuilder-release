@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "productVersion": "1.0.1",
+  "releasedAt": "2026-06-24",
+  "minLauncher": "1.0.0",
+  "notes": "EgeoBuilder 1.0.1: AI 工具轮数软收口 + RAG 超时修复 + 伟晔模板 Word + 交互体感优化。",
+  "package": {
+    "kind": "app",
+    "file": "egeo_app_1.0.1.zip",
+    "url": "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.0.1/egeo_app_1.0.1.zip",
+    "size": 7875199,
+    "sha256": "52d680e3bdea8752854c828e4059d3f2fa2a5c74af64f353c24498080f7f2231"
+  }
+}
