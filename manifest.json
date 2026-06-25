@@ -1,14 +1,14 @@
 {
-    "schemaVersion": 1,
-    "productVersion": "1.0.2",
-    "releasedAt": "2026-06-25",
-    "minLauncher": "1.0.0",
-    "notes": "EgeoBuilder 1.0.2: 修复透明工作面属性等值线在 3D 场景重复显示两条的问题, 现只在工作面顶面绘制一条。",
-    "package": {
-        "kind": "app",
-        "file": "egeo_app_1.0.2.zip",
-        "url": "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.0.2/egeo_app_1.0.2.zip",
-        "size": 7876997,
-        "sha256": "946797c97f490fa3159e7da4e643a4f2c287339134754b94b4d69a833d31b733"
-    }
+  "schemaVersion": 1,
+  "productVersion": "1.0.3",
+  "releasedAt": "2026-06-26",
+  "minLauncher": "1.0.0",
+  "notes": "EgeoBuilder 1.0.3: 工作面属性等值线改为贴合工作面顶面单条绘制 (复刻物探等值线样式, 消除断层处重复多线与悬浮); 透明工作面默认完全实体显示。",
+  "package": {
+    "kind": "app",
+    "file": "egeo_app_1.0.3.zip",
+    "url": "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.0.3/egeo_app_1.0.3.zip",
+    "size": 7877654,
+    "sha256": "9d96887999d193408a530e9e233aee40d00146ce9f88aad8f4386cdf256c380d"
+  }
 }
