@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "productVersion": "1.0.31",
+  "productVersion": "1.0.32",
   "releasedAt": "2026-06-26",
   "minLauncher": "1.0.0",
-  "notes": "EgeoBuilder 1.0.31: ECF Studio 界面中英文即时切换全面补全 — 菜单栏/停靠面板标题/节点浏览器(分类头+节点条目名)/属性编辑器列头/日志列头/工具查找面板 全部支持中↔英即时切换, 中文模式纯中文、英文模式纯英文(节点名与画布一致)。",
+  "notes": "EgeoBuilder 1.0.32: 节点-web 解耦 — 删除某可视化节点(如帘幕/地层/煤层/断层/水文/钻孔/巷道等)后, web 端不再渲染对应的 3D 元素, 左侧图层面板的勾选框也随之消失。修复了\"图层显隐取决于静态场景预设而非实际节点数据\"的耦合(删节点后旧 mesh 缓存不销毁的问题), 并建立 C++→web 的单一\"在场清单\"契约; 各可视化节点功能独立开关, 节点间不再强耦合。可用环境变量 GEOMSVIZ_NODE_PRESENCE=0 回退旧行为。",
   "package": {
     "kind": "app",
-    "file": "egeo_app_1.0.31.zip",
-    "url": "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.0.31/egeo_app_1.0.31.zip",
-    "size": 7896495,
-    "sha256": "ebd2f23d2543a56c67e0a090f465190d8f97f51f893592f7b81e58a5a9bae743"
+    "file": "egeo_app_1.0.32.zip",
+    "url": "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.0.32/egeo_app_1.0.32.zip",
+    "size": 7905521,
+    "sha256": "bc5a277557e4b4506f8c55aedcb09c7826ee0dc737a73d994e81a92aa9f9de2c"
   }
 }
