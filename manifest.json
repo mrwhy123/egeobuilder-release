@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "productVersion": "1.0.32",
-  "releasedAt": "2026-06-26",
+  "productVersion": "1.0.40",
+  "releasedAt": "2026-06-27",
   "minLauncher": "1.0.0",
-  "notes": "EgeoBuilder 1.0.32: 节点-web 解耦 — 删除某可视化节点(如帘幕/地层/煤层/断层/水文/钻孔/巷道等)后, web 端不再渲染对应的 3D 元素, 左侧图层面板的勾选框也随之消失。修复了\"图层显隐取决于静态场景预设而非实际节点数据\"的耦合(删节点后旧 mesh 缓存不销毁的问题), 并建立 C++→web 的单一\"在场清单\"契约; 各可视化节点功能独立开关, 节点间不再强耦合。可用环境变量 GEOMSVIZ_NODE_PRESENCE=0 回退旧行为。",
+  "notes": "EgeoBuilder 1.0.40: 深蓝商务大屏改版 — 配色改为沉稳深蓝商务风(克制青蓝 + 收敛发光), 删除被否决的 3D 大屏特效; 左侧栏按场景差异化重构(每个场景: 矿区概况 + 该场景专属图表 + 该场景专属列表), 修复卡片挤压/遮盖问题; 新增真实数据 ECharts 图表 (地质=钻孔深度分布, 构造=断层落差·倾角, 透明工作面=采出率, 安全=隐患距离分布), 无监测数据处诚实留白不画假图。",
   "package": {
     "kind": "app",
-    "file": "egeo_app_1.0.32.zip",
-    "url": "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.0.32/egeo_app_1.0.32.zip",
-    "size": 7905521,
-    "sha256": "bc5a277557e4b4506f8c55aedcb09c7826ee0dc737a73d994e81a92aa9f9de2c"
+    "file": "egeo_app_1.0.40.zip",
+    "url": "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.0.40/egeo_app_1.0.40.zip",
+    "size": 8265016,
+    "sha256": "99efe6847d8c2ba6a327b3d88cef9cf9a2b93703a946214187f623fc18f8e604"
   }
 }
