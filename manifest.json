@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "productVersion": "1.0.40",
+  "productVersion": "1.0.50",
   "releasedAt": "2026-06-27",
   "minLauncher": "1.0.0",
-  "notes": "EgeoBuilder 1.0.40: 深蓝商务大屏改版 — 配色改为沉稳深蓝商务风(克制青蓝 + 收敛发光), 删除被否决的 3D 大屏特效; 左侧栏按场景差异化重构(每个场景: 矿区概况 + 该场景专属图表 + 该场景专属列表), 修复卡片挤压/遮盖问题; 新增真实数据 ECharts 图表 (地质=钻孔深度分布, 构造=断层落差·倾角, 透明工作面=采出率, 安全=隐患距离分布), 无监测数据处诚实留白不画假图。",
+  "notes": "EgeoBuilder 1.0.50: 全息矿山大屏重构 — 地理态势雷达(真实矿区边界+工作面足印+灾害真坐标+全息扫描扇, 替旧抽象同心环); 综合调度新增设备状态/系统监测/实时生产三组件(高仿真模拟数据 20设备·183台套 + 通风排水运输供电顶板20指标 + 60日产量, 与18503综放实参自洽); impeccable审美精修(发光改稀有信号·渐变标题收回·廉价青收单族·呼吸缓动修卡顿, 保金色纪律+诚实空态); 两侧立柱默认窄列240px自适应(KPI图标读数行+SVG等比缩放+可滚); 修统计分析侧栏伪元素bug + 设备/系统/产量首帧空缓存bug。",
   "package": {
     "kind": "app",
-    "file": "egeo_app_1.0.40.zip",
-    "url": "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.0.40/egeo_app_1.0.40.zip",
-    "size": 8265016,
-    "sha256": "99efe6847d8c2ba6a327b3d88cef9cf9a2b93703a946214187f623fc18f8e604"
+    "file": "egeo_app_1.0.50.zip",
+    "url": "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.0.50/egeo_app_1.0.50.zip",
+    "size": 8276338,
+    "sha256": "798ce8aa2d0591d59d290533aba516a6ec1ada03d16ad33d0ef28d8a753dd320"
   }
 }
