@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "productVersion": "1.0.50",
-  "releasedAt": "2026-06-27",
+  "productVersion": "1.0.60",
+  "releasedAt": "2026-06-28",
   "minLauncher": "1.0.0",
-  "notes": "EgeoBuilder 1.0.50: 全息矿山大屏重构 — 地理态势雷达(真实矿区边界+工作面足印+灾害真坐标+全息扫描扇, 替旧抽象同心环); 综合调度新增设备状态/系统监测/实时生产三组件(高仿真模拟数据 20设备·183台套 + 通风排水运输供电顶板20指标 + 60日产量, 与18503综放实参自洽); impeccable审美精修(发光改稀有信号·渐变标题收回·廉价青收单族·呼吸缓动修卡顿, 保金色纪律+诚实空态); 两侧立柱默认窄列240px自适应(KPI图标读数行+SVG等比缩放+可滚); 修统计分析侧栏伪元素bug + 设备/系统/产量首帧空缓存bug。",
+  "notes": "EgeoBuilder 1.0.60: 顶部横幅重设计(锐角梯形拼块→一条连续发光扫掠曲线+多层辉光+切角发光胶囊tab, 参考帆软大屏); 区分透明工作面(地质透视: 半透地层·断层·钻孔·剖面/属性)与数字开采(开采过程: 采空推进·采煤机·截割线·时间轴), 不再共用同一场景; 统计分析整页BI重设计(满高网格 + 月度产量·推进/钻孔深度分布/采出率仪表/断层落差·倾角散点/断层规模分级 5个ECharts图 + 资源储量, 替旧半屏空白无图版, 缺源诚实空态); 左侧栏自适应填充(列表面板按高度增长, 不同分辨率不留空白不拥挤); 修右侧栏折叠失效(lode-rise入场动画fill:both永久持有transform压死折叠translateX → 改backwards); UI线条统一(图表平滑+连续网格+线条token)。",
   "package": {
     "kind": "app",
-    "file": "egeo_app_1.0.50.zip",
-    "url": "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.0.50/egeo_app_1.0.50.zip",
-    "size": 8276338,
-    "sha256": "798ce8aa2d0591d59d290533aba516a6ec1ada03d16ad33d0ef28d8a753dd320"
+    "file": "egeo_app_1.0.60.zip",
+    "url": "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.0.60/egeo_app_1.0.60.zip",
+    "size": 8279333,
+    "sha256": "baa1af77ab424c4be81872588dc99cce9857ddd1fee0fc462f14cfeafed9b136"
   }
 }
