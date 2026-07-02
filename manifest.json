@@ -1,14 +1,14 @@
 {
-  "schemaVersion": 1,
-  "productVersion": "1.0.60",
-  "releasedAt": "2026-06-28",
-  "minLauncher": "1.0.0",
-  "notes": "EgeoBuilder 1.0.60: 顶部横幅重设计(锐角梯形拼块→一条连续发光扫掠曲线+多层辉光+切角发光胶囊tab, 参考帆软大屏); 区分透明工作面(地质透视: 半透地层·断层·钻孔·剖面/属性)与数字开采(开采过程: 采空推进·采煤机·截割线·时间轴), 不再共用同一场景; 统计分析整页BI重设计(满高网格 + 月度产量·推进/钻孔深度分布/采出率仪表/断层落差·倾角散点/断层规模分级 5个ECharts图 + 资源储量, 替旧半屏空白无图版, 缺源诚实空态); 左侧栏自适应填充(列表面板按高度增长, 不同分辨率不留空白不拥挤); 修右侧栏折叠失效(lode-rise入场动画fill:both永久持有transform压死折叠translateX → 改backwards); UI线条统一(图表平滑+连续网格+线条token)。",
-  "package": {
-    "kind": "app",
-    "file": "egeo_app_1.0.60.zip",
-    "url": "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.0.60/egeo_app_1.0.60.zip",
-    "size": 8279333,
-    "sha256": "baa1af77ab424c4be81872588dc99cce9857ddd1fee0fc462f14cfeafed9b136"
-  }
+    "schemaVersion":  1,
+    "productVersion":  "1.0.70",
+    "releasedAt":  "2026-07-02",
+    "minLauncher":  "1.0.0",
+    "notes":  "EgeoBuilder 1.0.70 澧為噺鏇存柊 (app/Binary 鐧藉悕鍗?.",
+    "package":  {
+                    "kind":  "app",
+                    "file":  "egeo_app_1.0.70.zip",
+                    "url":  "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.0.70/egeo_app_1.0.70.zip",
+                    "size":  8590875,
+                    "sha256":  "4d14099192e49dcae0849f18d17414c09378d245b51f7b3b5827bad50abae99a"
+                }
 }
