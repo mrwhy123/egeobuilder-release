@@ -1,14 +1,21 @@
 {
     "schemaVersion":  1,
-    "productVersion":  "1.0.70",
-    "releasedAt":  "2026-07-02",
+    "productVersion":  "1.0.72",
+    "releasedAt":  "2026-07-05",
     "minLauncher":  "1.0.0",
-    "notes":  "EgeoBuilder 1.0.70 澧為噺鏇存柊 (app/Binary 鐧藉悕鍗?.",
+    "notes":  "EgeoBuilder 1.0.72 增量更新 (app/Binary 白名单).",
     "package":  {
                     "kind":  "app",
-                    "file":  "egeo_app_1.0.70.zip",
-                    "url":  "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.0.70/egeo_app_1.0.70.zip",
-                    "size":  8590875,
-                    "sha256":  "4d14099192e49dcae0849f18d17414c09378d245b51f7b3b5827bad50abae99a"
-                }
+                    "file":  "egeo_app_1.0.72.zip",
+                    "url":  "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.0.72/egeo_app_1.0.72.zip",
+                    "size":  93520533,
+                    "sha256":  "0ca4358fa46087709caabfea89770636fd4ead4ff93766f0e943d1c27e735cb1"
+                },
+    "assistantPackage":  {
+                             "kind":  "assistant",
+                             "file":  "egeo_assistant_1.0.72.zip",
+                             "url":  "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.0.72/egeo_assistant_1.0.72.zip",
+                             "size":  5350488,
+                             "sha256":  "5dda18a5a34258f9af9d3441b19538abd856a67fd2527a325bf33b58d37bbe01"
+                         }
 }
