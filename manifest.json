@@ -1,42 +1,30 @@
 {
     "schemaVersion":  1,
-    "productVersion":  "1.0.74",
+    "productVersion":  "1.0.75",
     "releasedAt":  "2026-07-06",
     "minLauncher":  "1.0.0",
-    "notes":  "EgeoBuilder 1.0.74 增量更新 (app/Binary 白名单).",
+    "notes":  "EgeoBuilder 1.0.75 增量更新 (app/Binary 白名单).",
     "package":  {
                     "kind":  "app",
-                    "file":  "egeo_app_1.0.74.zip",
-                    "url":  "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.0.74/egeo_app_1.0.74.zip",
-                    "size":  8794373,
-                    "sha256":  "b00c1b8061a0b3a4a322cca9d107f3ce03264656b187c8774aa086aa418c3c89",
+                    "file":  "egeo_app_1.0.75.zip",
+                    "url":  "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.0.75/egeo_app_1.0.75.zip",
+                    "size":  8871223,
+                    "sha256":  "1468ef3491ecf9cdb7076b18008bc50e5004c94d4672a1c2c777c13c10185514",
                     "urls":  [
-                                 "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.0.74/egeo_app_1.0.74.zip",
-                                 "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.0.74/egeo_app_1.0.74.zip"
+                                 "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.0.75/egeo_app_1.0.75.zip",
+                                 "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.0.75/egeo_app_1.0.75.zip"
                              ]
                 },
     "assistantPackage":  {
                              "kind":  "assistant",
-                             "file":  "egeo_assistant_1.0.74.zip",
-                             "url":  "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.0.74/egeo_assistant_1.0.74.zip",
-                             "size":  5351200,
-                             "sha256":  "6a0e86dc742f879ae56c7442a5f8f08594ad80cb232cbe6ae3ff795fca69474a",
+                             "file":  "egeo_assistant_1.0.75.zip",
+                             "url":  "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.0.75/egeo_assistant_1.0.75.zip",
+                             "size":  5351155,
+                             "sha256":  "79ca592b5ad913b63718bb33c38db1e30ee35241e44a99cd023799616b9e4139",
                              "urls":  [
-                                          "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.0.74/egeo_assistant_1.0.74.zip",
-                                          "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.0.74/egeo_assistant_1.0.74.zip"
+                                          "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.0.75/egeo_assistant_1.0.75.zip",
+                                          "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.0.75/egeo_assistant_1.0.75.zip"
                                       ],
-                             "uiVersion":  "0.3.4"
-                         },
-    "assistantShellPackage":  {
-                                  "kind":  "shell",
-                                  "file":  "egeo_shell_1.0.74.zip",
-                                  "url":  "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.0.74/egeo_shell_1.0.74.zip",
-                                  "size":  76886440,
-                                  "sha256":  "ed192f2e387c52d3d0d288841d40dbd7bf1fda402965d694d88d74dd92f0fa3e",
-                                  "exeSha256":  "06d60eb1a51f4848418d9f64af41f964bb8e42b5548236b7bfa68e05cd6f44fa",
-                                  "urls":  [
-                                               "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.0.74/egeo_shell_1.0.74.zip",
-                                               "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.0.74/egeo_shell_1.0.74.zip"
-                                           ]
-                              }
+                             "uiVersion":  "0.3.5"
+                         }
 }
