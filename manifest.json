@@ -1,30 +1,42 @@
 {
     "schemaVersion":  1,
-    "productVersion":  "1.1.1",
+    "productVersion":  "1.1.2",
     "releasedAt":  "2026-07-07",
     "minLauncher":  "1.0.0",
-    "notes":  "EgeoBuilder 1.1.1 增量更新 (app/Binary 白名单).",
+    "notes":  "EgeoBuilder 1.1.2 增量更新 (app/Binary 白名单).",
     "package":  {
                     "kind":  "app",
-                    "file":  "egeo_app_1.1.1.zip",
-                    "url":  "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.1/egeo_app_1.1.1.zip",
-                    "size":  8804784,
-                    "sha256":  "3cd2d30740a0c651123e2f2d1f6dc7a4155acd6e9d280b160fd6690e34c14d30",
+                    "file":  "egeo_app_1.1.2.zip",
+                    "url":  "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.2/egeo_app_1.1.2.zip",
+                    "size":  8817490,
+                    "sha256":  "eceb76ebde58760238476bb119a02123c184e3d6e73dc4d45febdcee11a3b649",
                     "urls":  [
-                                 "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.1/egeo_app_1.1.1.zip",
-                                 "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.1/egeo_app_1.1.1.zip"
+                                 "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.2/egeo_app_1.1.2.zip",
+                                 "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.2/egeo_app_1.1.2.zip"
                              ]
                 },
     "assistantPackage":  {
                              "kind":  "assistant",
-                             "file":  "egeo_assistant_1.1.1.zip",
-                             "url":  "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.1/egeo_assistant_1.1.1.zip",
-                             "size":  5358642,
-                             "sha256":  "46217971a3d33e47ca3ce4849517e43b4dbe64237b39435db9734322a8bb46a5",
+                             "file":  "egeo_assistant_1.1.2.zip",
+                             "url":  "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.2/egeo_assistant_1.1.2.zip",
+                             "size":  5360435,
+                             "sha256":  "0072d11a4fe0ddd892aa9dcf3f57373eb42e79d0cedacbcee0423d7ba7a68512",
                              "urls":  [
-                                          "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.1/egeo_assistant_1.1.1.zip",
-                                          "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.1/egeo_assistant_1.1.1.zip"
+                                          "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.2/egeo_assistant_1.1.2.zip",
+                                          "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.2/egeo_assistant_1.1.2.zip"
                                       ],
-                             "uiVersion":  "0.4.1"
-                         }
+                             "uiVersion":  "0.4.2"
+                         },
+    "assistantShellPackage":  {
+                                  "kind":  "shell",
+                                  "file":  "egeo_shell_1.1.2.zip",
+                                  "url":  "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.2/egeo_shell_1.1.2.zip",
+                                  "size":  114973239,
+                                  "sha256":  "5a85d2fd41a5e04fad44bcdbc4a6d3186ae9cbec361ac2b8a351d7a16d15af19",
+                                  "exeSha256":  "2d31275e79c2f23240558c35d1e0ec6adfc899e15c9450a4e5266009e695c662",
+                                  "urls":  [
+                                               "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.2/egeo_shell_1.1.2.zip",
+                                               "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.2/egeo_shell_1.1.2.zip"
+                                           ]
+                              }
 }
