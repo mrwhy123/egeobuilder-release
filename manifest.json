@@ -8,8 +8,8 @@
                     "kind":  "app",
                     "file":  "egeo_app_1.1.2.zip",
                     "url":  "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.2/egeo_app_1.1.2.zip",
-                    "size":  8817490,
-                    "sha256":  "eceb76ebde58760238476bb119a02123c184e3d6e73dc4d45febdcee11a3b649",
+                    "size":  8817731,
+                    "sha256":  "04b3131a8d376cb2c79a573768677e5883b6d4075559063b68055238d97370a1",
                     "urls":  [
                                  "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.2/egeo_app_1.1.2.zip",
                                  "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.2/egeo_app_1.1.2.zip"
@@ -19,8 +19,8 @@
                              "kind":  "assistant",
                              "file":  "egeo_assistant_1.1.2.zip",
                              "url":  "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.2/egeo_assistant_1.1.2.zip",
-                             "size":  5360435,
-                             "sha256":  "0072d11a4fe0ddd892aa9dcf3f57373eb42e79d0cedacbcee0423d7ba7a68512",
+                             "size":  5359976,
+                             "sha256":  "ca9a3140f4ace0619181ee520c4080325e7bcaeddd15b7dcc5f84657d0027fe7",
                              "urls":  [
                                           "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.2/egeo_assistant_1.1.2.zip",
                                           "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.2/egeo_assistant_1.1.2.zip"
@@ -32,8 +32,8 @@
                                   "file":  "egeo_shell_1.1.2.zip",
                                   "url":  "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.2/egeo_shell_1.1.2.zip",
                                   "size":  114973239,
-                                  "sha256":  "5a85d2fd41a5e04fad44bcdbc4a6d3186ae9cbec361ac2b8a351d7a16d15af19",
-                                  "exeSha256":  "2d31275e79c2f23240558c35d1e0ec6adfc899e15c9450a4e5266009e695c662",
+                                  "sha256":  "3ce00713c7c6701a4eb17bef1bee05f196b40b91d1bf797cab9ed3d7b0a16f91",
+                                  "exeSha256":  "99b6edcf6c18a78ef2328fe1c8098d7200c26d2a5cc3a598c1aa3fb8bdefc8f9",
                                   "urls":  [
                                                "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.2/egeo_shell_1.1.2.zip",
                                                "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.2/egeo_shell_1.1.2.zip"
