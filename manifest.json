@@ -30,12 +30,11 @@
     "assistantShellPackage":  {
                                   "kind":  "shell",
                                   "file":  "egeo_shell_1.1.4.zip",
-                                  "url":  "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.4/egeo_shell_1.1.4.zip",
+                                  "url":  "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.4/egeo_shell_1.1.4.zip",
                                   "size":  114973238,
                                   "sha256":  "b3c8aa924af8ea09ed2be9eeacff4568a0e790d58c644441123b0902f3108120",
                                   "exeSha256":  "d207417c1a5f50b8194ebbd1ef63e724c2c8f32947720817d1108e35c444f0af",
                                   "urls":  [
-                                               "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.4/egeo_shell_1.1.4.zip",
                                                "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.4/egeo_shell_1.1.4.zip"
                                            ]
                               },
