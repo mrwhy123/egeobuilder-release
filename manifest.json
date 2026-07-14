@@ -1,42 +1,42 @@
 {
     "schemaVersion":  2,
-    "productVersion":  "1.1.13",
+    "productVersion":  "1.1.14",
     "releasedAt":  "2026-07-14",
     "minLauncher":  "1.0.0",
-    "notes":  "EgeoBuilder 1.1.13 增量更新 (app/Binary 白名单).",
+    "notes":  "EgeoBuilder 1.1.14 增量更新 (app/Binary 白名单).",
     "package":  {
                     "kind":  "app",
-                    "file":  "egeo_app_1.1.13.zip",
-                    "url":  "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.13/egeo_app_1.1.13.zip",
-                    "size":  25976739,
-                    "sha256":  "2d011996449af97d00632ffa4d82e92d619a418d8c26bd9d2e2721cb0f5ba3d3",
+                    "file":  "egeo_app_1.1.14.zip",
+                    "url":  "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.14/egeo_app_1.1.14.zip",
+                    "size":  26018316,
+                    "sha256":  "3aed48799ebe9b91eb9bc1a26e20722f84ac30477fa5370e1afbeb472c2c81f4",
                     "urls":  [
-                                 "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.13/egeo_app_1.1.13.zip",
-                                 "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.13/egeo_app_1.1.13.zip"
+                                 "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.14/egeo_app_1.1.14.zip",
+                                 "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.14/egeo_app_1.1.14.zip"
                              ]
                 },
     "assistantPackage":  {
                              "kind":  "assistant",
-                             "file":  "egeo_assistant_1.1.13.zip",
-                             "url":  "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.13/egeo_assistant_1.1.13.zip",
-                             "size":  9082815,
-                             "sha256":  "e23664f81e09405b8734036b96dce1b063e9075fe89123c8648c504bb15322eb",
+                             "file":  "egeo_assistant_1.1.14.zip",
+                             "url":  "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.14/egeo_assistant_1.1.14.zip",
+                             "size":  9155424,
+                             "sha256":  "7fe50715a8f78e869b06433ab0f415901a6c38632d94610b41d0dbd0e0aefd87",
                              "urls":  [
-                                          "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.13/egeo_assistant_1.1.13.zip",
-                                          "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.13/egeo_assistant_1.1.13.zip"
+                                          "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.14/egeo_assistant_1.1.14.zip",
+                                          "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.14/egeo_assistant_1.1.14.zip"
                                       ],
-                             "uiVersion":  "0.7.0"
+                             "uiVersion":  "0.7.1"
                          },
     "assistantShellPackage":  {
                                   "kind":  "shell",
-                                  "file":  "egeo_shell_1.1.13.zip",
-                                  "url":  "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.13/egeo_shell_1.1.13.zip",
-                                  "size":  115029099,
-                                  "sha256":  "a4eaa1e43f81fd3d6216ea2a9deeeb33d25722d863b2bba81fb487b631bd1411",
-                                  "exeSha256":  "43c6af56d583d6f682f338678dd5f0dfc2e26b9864d2515affdc7dc296c50b61",
+                                  "file":  "egeo_shell_1.1.14.zip",
+                                  "url":  "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.14/egeo_shell_1.1.14.zip",
+                                  "size":  115029103,
+                                  "sha256":  "001bab508379fa9538cd04d4443935c18b0db352a5d6839183af5639850f4cac",
+                                  "exeSha256":  "5dbbc93a14fd935b9f9d371f9a2619c6b51d531707bc59dccdc0271af8b45c5a",
                                   "urls":  [
-                                               "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.13/egeo_shell_1.1.13.zip",
-                                               "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.13/egeo_shell_1.1.13.zip"
+                                               "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.14/egeo_shell_1.1.14.zip",
+                                               "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.14/egeo_shell_1.1.14.zip"
                                            ]
                               }
 }
