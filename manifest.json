@@ -1,30 +1,30 @@
 {
   "schemaVersion": 2,
-  "productVersion": "1.1.17",
+  "productVersion": "1.1.18",
   "releasedAt": "2026-07-17",
   "minLauncher": "1.0.0",
-  "notes": "R43 数据库治理轮: 结构重组(16 schema/113表, dispatch新域+域归位+消歧)+性能治理(索引/构图/RAG两段式)+PostgreSQL 17.6 升级; 本包含客户端数据库在线升级通道(schema补丁+GPR数据+PG17引擎, 停机窗口自动执行、失败自动回滚)",
+  "notes": "R43 数据库治理轮(结构重组/性能治理/PostgreSQL 17.6 升级+客户端DB在线升级通道) + 1.1.18 启用更新签名信任链(修 1.1.14 起静默拒更)。",
   "package": {
     "kind": "app",
-    "file": "egeo_app_1.1.17.zip",
-    "url": "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.17/egeo_app_1.1.17.zip",
-    "size": 399127881,
-    "sha256": "46acf33950618297eef0ba7a8b6b079d713a376e8f4bee2eb3b06a812f765953",
+    "file": "egeo_app_1.1.18.zip",
+    "url": "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.18/egeo_app_1.1.18.zip",
+    "size": 399128425,
+    "sha256": "a7d1856ab47331e173f75c3089a9bd496416f32cb34905fc94fdfd7cf69553c1",
     "urls": [
-      "https://gh-proxy.com/https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.17/egeo_app_1.1.17.zip",
-      "https://ghproxy.net/https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.17/egeo_app_1.1.17.zip",
-      "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.17/egeo_app_1.1.17.zip"
+      "https://gh-proxy.com/https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.18/egeo_app_1.1.18.zip",
+      "https://ghproxy.net/https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.18/egeo_app_1.1.18.zip",
+      "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.18/egeo_app_1.1.18.zip"
     ]
   },
   "assistantPackage": {
     "kind": "assistant",
-    "file": "egeo_assistant_1.1.17.zip",
-    "url": "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.17/egeo_assistant_1.1.17.zip",
+    "file": "egeo_assistant_1.1.18.zip",
+    "url": "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.18/egeo_assistant_1.1.18.zip",
     "size": 10115171,
     "sha256": "f8cc5fd844a5de5f7e437ab66a49fd487f618533874a8e35117a26e2c428fb25",
     "urls": [
-      "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.17/egeo_assistant_1.1.17.zip",
-      "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.17/egeo_assistant_1.1.17.zip"
+      "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.18/egeo_assistant_1.1.18.zip",
+      "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.18/egeo_assistant_1.1.18.zip"
     ],
     "uiVersion": "0.8.1"
   }
