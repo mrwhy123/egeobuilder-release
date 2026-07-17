@@ -1,42 +1,31 @@
 {
-    "schemaVersion":  2,
-    "productVersion":  "1.1.15",
-    "releasedAt":  "2026-07-16",
-    "minLauncher":  "1.0.0",
-    "notes":  "EgeoBuilder 1.1.15 增量更新 (app/Binary 白名单).",
-    "package":  {
-                    "kind":  "app",
-                    "file":  "egeo_app_1.1.15.zip",
-                    "url":  "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.15/egeo_app_1.1.15.zip",
-                    "size":  93029831,
-                    "sha256":  "fd8bf9b596892e3539b7147f0fde28e8212c43a086be6fa03f4001beb7716fbb",
-                    "urls":  [
-                                 "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.15/egeo_app_1.1.15.zip",
-                                 "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.15/egeo_app_1.1.15.zip"
-                             ]
-                },
-    "assistantPackage":  {
-                             "kind":  "assistant",
-                             "file":  "egeo_assistant_1.1.15.zip",
-                             "url":  "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.15/egeo_assistant_1.1.15.zip",
-                             "size":  9285982,
-                             "sha256":  "02a8981aed1a2faca7ac9bb7edda4d7cbca4dbe2dabefb883d2f550b194bffe1",
-                             "urls":  [
-                                          "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.15/egeo_assistant_1.1.15.zip",
-                                          "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.15/egeo_assistant_1.1.15.zip"
-                                      ],
-                             "uiVersion":  "0.7.2"
-                         },
-    "assistantShellPackage":  {
-                                  "kind":  "shell",
-                                  "file":  "egeo_shell_1.1.15.zip",
-                                  "url":  "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.15/egeo_shell_1.1.15.zip",
-                                  "size":  115029100,
-                                  "sha256":  "e5b3b83041b007d001970493df0680d9357a7364523b3a3dc5a80c6823706a26",
-                                  "exeSha256":  "86be4da89de3fdc2e6325fea4936aad895cd1560328fc43f5a1027bdd85cd3d6",
-                                  "urls":  [
-                                               "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.15/egeo_shell_1.1.15.zip",
-                                               "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.15/egeo_shell_1.1.15.zip"
-                                           ]
-                              }
+  "schemaVersion": 2,
+  "productVersion": "1.1.16",
+  "releasedAt": "2026-07-17",
+  "minLauncher": "1.0.0",
+  "notes": "R43 照片级PBR纹理全量置换+三层反重复(随机平铺/宏观变化/层间差异); R41 三机与钻孔模型真实化; R42 GPR雷达剖面接入; 助手 0.8.1 岩层拟态UI",
+  "package": {
+    "kind": "app",
+    "file": "egeo_app_1.1.16.zip",
+    "url": "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.16/egeo_app_1.1.16.zip",
+    "size": 223945875,
+    "sha256": "b5bea76af09dcdaad612f0cddba73f44e8b697a38a40279fda4c6284f9e09882",
+    "urls": [
+      "https://gh-proxy.com/https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.16/egeo_app_1.1.16.zip",
+      "https://ghproxy.net/https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.16/egeo_app_1.1.16.zip",
+      "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.16/egeo_app_1.1.16.zip"
+    ]
+  },
+  "assistantPackage": {
+    "kind": "assistant",
+    "file": "egeo_assistant_1.1.16.zip",
+    "url": "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.16/egeo_assistant_1.1.16.zip",
+    "size": 10115171,
+    "sha256": "f8cc5fd844a5de5f7e437ab66a49fd487f618533874a8e35117a26e2c428fb25",
+    "urls": [
+      "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.16/egeo_assistant_1.1.16.zip",
+      "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.16/egeo_assistant_1.1.16.zip"
+    ],
+    "uiVersion": "0.8.1"
+  }
 }
