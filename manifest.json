@@ -1,28 +1,28 @@
 {
     "schemaVersion":  2,
-    "productVersion":  "1.1.20",
-    "releasedAt":  "2026-07-18",
+    "productVersion":  "1.1.21",
+    "releasedAt":  "2026-07-19",
     "minLauncher":  "1.0.0",
-    "notes":  "EgeoBuilder 1.1.20 增量更新 (app/Binary 白名单).",
+    "notes":  "EgeoBuilder 1.1.21 增量更新 (app/Binary 白名单).",
     "package":  {
                     "kind":  "app",
-                    "file":  "egeo_app_1.1.20.zip",
-                    "url":  "https://gh-proxy.com/https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.20/egeo_app_1.1.20.zip",
-                    "size":  409019796,
-                    "sha256":  "7aa0e33eb7c8852f903eebb7dd27dfbf19d0a6b39a6b4ccd1568032d8234938a",
+                    "file":  "egeo_app_1.1.21.zip",
+                    "url":  "https://gh-proxy.com/https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.21/egeo_app_1.1.21.zip",
+                    "size":  409176614,
+                    "sha256":  "8d0959de822d471119897ecc871ea24b0d7628070d5d5c9cd00fd40015de114e",
                     "urls":  [
-                                 "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.20/egeo_app_1.1.20.zip"
+                                 "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.21/egeo_app_1.1.21.zip"
                              ]
                 },
     "assistantPackage":  {
                              "kind":  "assistant",
-                             "file":  "egeo_assistant_1.1.20.zip",
-                             "url":  "https://gh-proxy.com/https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.20/egeo_assistant_1.1.20.zip",
-                             "size":  10115171,
-                             "sha256":  "f8cc5fd844a5de5f7e437ab66a49fd487f618533874a8e35117a26e2c428fb25",
+                             "file":  "egeo_assistant_1.1.21.zip",
+                             "url":  "https://gh-proxy.com/https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.21/egeo_assistant_1.1.21.zip",
+                             "size":  10119390,
+                             "sha256":  "05578099d1c9177dc3a2c8bf7f47a00f68dea2f633b15957411b71f7f577855e",
                              "urls":  [
-                                          "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.20/egeo_assistant_1.1.20.zip"
+                                          "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.21/egeo_assistant_1.1.21.zip"
                                       ],
-                             "uiVersion":  "0.8.1"
+                             "uiVersion":  "0.8.2"
                          }
 }
