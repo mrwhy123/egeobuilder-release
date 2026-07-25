@@ -1,31 +1,29 @@
 {
-  "schemaVersion": 2,
-  "productVersion": "1.1.23",
-  "releasedAt": "2026-07-25",
-  "minLauncher": "1.0.0",
-  "notes": "EgeoBuilder 1.1.23 增量更新 (app/Binary 白名单).",
-  "package": {
-    "kind": "app",
-    "file": "egeo_app_1.1.23.zip",
-    "url": "https://gh-proxy.com/https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.23/egeo_app_1.1.23.zip",
-    "size": 430811833,
-    "sha256": "2fccded97eb070ec1670f7f7e4422d14601331d64a14f9f3d0cc914f438f5139",
-    "urls": [
-      "https://gh-proxy.com/https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.23/egeo_app_1.1.23.zip",
-      "https://ghproxy.net/https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.23/egeo_app_1.1.23.zip",
-      "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.23/egeo_app_1.1.23.zip"
-    ]
-  },
-  "assistantPackage": {
-    "kind": "assistant",
-    "file": "egeo_assistant_1.1.23.zip",
-    "url": "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.23/egeo_assistant_1.1.23.zip",
-    "size": 10128288,
-    "sha256": "edeff8000f0aaecdae1f785081a366b46012796bd9089f34bca380d0277caf51",
-    "urls": [
-      "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.23/egeo_assistant_1.1.23.zip",
-      "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.23/egeo_assistant_1.1.23.zip"
-    ],
-    "uiVersion": "0.8.3"
-  }
+    "schemaVersion":  2,
+    "productVersion":  "1.1.24",
+    "releasedAt":  "2026-07-25",
+    "minLauncher":  "1.0.0",
+    "notes":  "EgeoBuilder 1.1.24 增量更新 (app/Binary 白名单).",
+    "package":  {
+                    "kind":  "app",
+                    "file":  "egeo_app_1.1.24.zip",
+                    "url":  "https://gh-proxy.com/https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.24/egeo_app_1.1.24.zip",
+                    "size":  248534197,
+                    "sha256":  "04e02db701f14ec4abcfdd32a9b77624791b2027094c415c3e5d5e612ebbd1dd",
+                    "urls":  [
+                                 "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.24/egeo_app_1.1.24.zip"
+                             ]
+                },
+    "pgUpgradePackage":  {
+                             "kind":  "pgupgrade",
+                             "file":  "egeo_pgupgrade_pg17.zip",
+                             "url":  "https://gh-proxy.com/https://github.com/mrwhy123/egeobuilder-release/releases/download/pg17-runtime/egeo_pgupgrade_pg17.zip",
+                             "size":  183403796,
+                             "sha256":  "b599ec064a488e170cc81537eb1bc431f77c11b29671f49a08210c289d9f7c7b",
+                             "urls":  [
+                                          "https://gh-proxy.com/https://github.com/mrwhy123/egeobuilder-release/releases/download/pg17-runtime/egeo_pgupgrade_pg17.zip",
+                                          "https://ghproxy.net/https://github.com/mrwhy123/egeobuilder-release/releases/download/pg17-runtime/egeo_pgupgrade_pg17.zip",
+                                          "https://github.com/mrwhy123/egeobuilder-release/releases/download/pg17-runtime/egeo_pgupgrade_pg17.zip"
+                                      ]
+                         }
 }
