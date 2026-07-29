@@ -1,30 +1,30 @@
 {
     "schemaVersion":  2,
-    "productVersion":  "1.1.26",
-    "releasedAt":  "2026-07-26",
+    "productVersion":  "1.1.27",
+    "releasedAt":  "2026-07-29",
     "minLauncher":  "1.0.0",
-    "notes":  "EgeoBuilder 1.1.26 增量更新 (app/Binary 白名单). 本版未含: 助手壳 (~80MB).",
+    "notes":  "EgeoBuilder 1.1.27 增量更新 (app/Binary 白名单). 本版未含: 助手壳 (~80MB).",
     "package":  {
                     "kind":  "app",
-                    "file":  "egeo_app_1.1.26.zip",
-                    "url":  "https://gh-proxy.com/https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.26/egeo_app_1.1.26.zip",
-                    "size":  248538294,
-                    "sha256":  "febc41c353b157899590a0ef42cd2e631cb5b0f42aec29e4bf4547e54283b5aa",
+                    "file":  "egeo_app_1.1.27.zip",
+                    "url":  "https://gh-proxy.com/https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.27/egeo_app_1.1.27.zip",
+                    "size":  249007405,
+                    "sha256":  "fc8e14b7e61a298969a51d2f92095283da51c93047ee8e3ae721c4f656e4d5ae",
                     "urls":  [
-                                 "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.26/egeo_app_1.1.26.zip"
+                                 "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.27/egeo_app_1.1.27.zip"
                              ]
                 },
     "assistantPackage":  {
                              "kind":  "assistant",
-                             "file":  "egeo_assistant_1.1.26.zip",
-                             "url":  "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.26/egeo_assistant_1.1.26.zip",
-                             "size":  10128288,
-                             "sha256":  "f3d25b1d2f3bfbc17a12509322fc848f6825c77f24c48368256135c45de43f09",
+                             "file":  "egeo_assistant_1.1.27.zip",
+                             "url":  "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.27/egeo_assistant_1.1.27.zip",
+                             "size":  10129456,
+                             "sha256":  "a64031ba7cd69dc189544137d2b8233548cb1c18e01809aabe6a156881608c56",
                              "urls":  [
-                                          "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.26/egeo_assistant_1.1.26.zip",
-                                          "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.26/egeo_assistant_1.1.26.zip"
+                                          "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.27/egeo_assistant_1.1.27.zip",
+                                          "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.27/egeo_assistant_1.1.27.zip"
                                       ],
-                             "uiVersion":  "0.8.3"
+                             "uiVersion":  "0.8.4"
                          },
     "pgUpgradePackage":  {
                              "kind":  "pgupgrade",
