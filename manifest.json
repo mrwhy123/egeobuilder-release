@@ -1,30 +1,42 @@
 {
     "schemaVersion":  2,
-    "productVersion":  "1.1.27",
-    "releasedAt":  "2026-07-29",
+    "productVersion":  "1.1.28",
+    "releasedAt":  "2026-07-31",
     "minLauncher":  "1.0.0",
-    "notes":  "EgeoBuilder 1.1.27 增量更新 (app/Binary 白名单). 本版未含: 助手壳 (~80MB).",
+    "notes":  "EgeoBuilder 1.1.28 增量更新 (app/Binary 白名单). 本版未含: 助手壳 (~80MB).",
+    "history":  [
+                    {
+                        "version":  "1.1.28",
+                        "manifestFile":  "manifest_1.1.28.json",
+                        "notes":  "EgeoBuilder 1.1.28 增量更新 (app/Binary 白名单). 本版未含: 助手壳 (~80MB)."
+                    },
+                    {
+                        "version":  "1.1.27",
+                        "manifestFile":  "manifest_1.1.27.json",
+                        "notes":  "D2 制图规范轮 + GIS 工作台 ArcGIS Pro 对标"
+                    }
+                ],
     "package":  {
                     "kind":  "app",
-                    "file":  "egeo_app_1.1.27.zip",
-                    "url":  "https://gh-proxy.com/https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.27/egeo_app_1.1.27.zip",
-                    "size":  249007405,
-                    "sha256":  "fc8e14b7e61a298969a51d2f92095283da51c93047ee8e3ae721c4f656e4d5ae",
+                    "file":  "egeo_app_1.1.28.zip",
+                    "url":  "https://gh-proxy.com/https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.28/egeo_app_1.1.28.zip",
+                    "size":  250711670,
+                    "sha256":  "ba3050450d5027c080e9fa37d7698dca3115861baeff569c2b414ea0d4eedbf4",
                     "urls":  [
-                                 "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.27/egeo_app_1.1.27.zip"
+                                 "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.28/egeo_app_1.1.28.zip"
                              ]
                 },
     "assistantPackage":  {
                              "kind":  "assistant",
-                             "file":  "egeo_assistant_1.1.27.zip",
-                             "url":  "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.27/egeo_assistant_1.1.27.zip",
-                             "size":  10129456,
-                             "sha256":  "a64031ba7cd69dc189544137d2b8233548cb1c18e01809aabe6a156881608c56",
+                             "file":  "egeo_assistant_1.1.28.zip",
+                             "url":  "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.28/egeo_assistant_1.1.28.zip",
+                             "size":  10130331,
+                             "sha256":  "704e2501fefae90e2d9438861b39c5e096cc47bbf2a0242a390d09ae71a78dfc",
                              "urls":  [
-                                          "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.27/egeo_assistant_1.1.27.zip",
-                                          "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.27/egeo_assistant_1.1.27.zip"
+                                          "https://gitee.com/yuxnnn/egeobuilder-release/releases/download/v1.1.28/egeo_assistant_1.1.28.zip",
+                                          "https://github.com/mrwhy123/egeobuilder-release/releases/download/v1.1.28/egeo_assistant_1.1.28.zip"
                                       ],
-                             "uiVersion":  "0.8.4"
+                             "uiVersion":  "0.8.5"
                          },
     "pgUpgradePackage":  {
                              "kind":  "pgupgrade",
